@@ -1,0 +1,6 @@
+name: XmlRpcSpike
+description: An XMLRPC spike.
+website: https://github.com/rlundy82/pvp-siege
+author: rlundy82
+main: com.rlundy82.XmlRpcSpike.XmlRpcSpike
+version: 0.0.01a
